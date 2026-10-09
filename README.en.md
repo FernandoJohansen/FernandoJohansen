@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0208,100:003B00&height=150&text=Fernando%20Johansen&fontColor=00FF41&fontSize=52&fontAlignY=42&desc=Full-stack%20developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Information%20security&descSize=18&descAlignY=72&descColor=008F11" alt="Fernando Johansen" width="100%"></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=34&duration=3000&pause=1200&color=00FF41&background=0D0208&center=true&vCenter=true&width=820&height=120&lines=Fernando%20Johansen%3BFull-stack%20%C2%B7%20AI%20Engineer%20%C2%B7%20Security" alt="Fernando Johansen — Full-stack · AI Engineer · Security" width="100%"></p>
 
 <p align="center">
   Corumbá – MS, Brazil
