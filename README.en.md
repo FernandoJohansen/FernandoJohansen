@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/FernandoJohansen"><img src="https://img.shields.io/badge/🇧🇷_Português-ler_em_português-003B00?style=flat-square" alt="Ler em português"></a>
-  <img src="https://img.shields.io/badge/🇺🇸_English-selected-00FF41?style=flat-square" alt="English (selected)">
+  <a href="https://github.com/FernandoJohansen"><img src="https://img.shields.io/badge/Português-ler_em_português-003B00?style=flat-square" alt="Ler em português"></a>
+  <img src="https://img.shields.io/badge/English-selected-00FF41?style=flat-square" alt="English (selected)">
 </p>
 
 <p align="center">
@@ -22,9 +22,9 @@ I've been a software developer since 2020. I build applications end to end, with
 
 Security is the lens I apply to everything I build. When I write an API, I also write the attacks against it.
 
-- 🎓 IT Technician (IFMS) · studying **Systems Analysis and Development** and **Digital Security** (UNIFAEL)
-- 🔭 Looking for **AI Engineer** roles (remote)
-- 🌎 Native Portuguese · Fluent English (C2)
+- IT Technician (IFMS) · studying **Systems Analysis and Development** and **Digital Security** (UNIFAEL)
+- Looking for **AI Engineer** roles (remote)
+- Native Portuguese · Fluent English (C2)
 
 ## Stack
 
@@ -60,19 +60,19 @@ Security is the lens I apply to everything I build. When I write an API, I also 
 
 ## Featured projects
 
-### 🤖 AI
+### AI
 
 **[nexus](https://github.com/FernandoJohansen/nexus)**: a YouTube automation platform that goes from trend discovery to script and voiceover. Async FastAPI, PostgreSQL, Redis + Celery for job queues, adapters for Claude, OpenAI and Gemini, and a React frontend with shadcn/ui. All orchestrated with Docker Compose and Nginx.
 
 **[Meeting Copilot](https://github.com/FernandoJohansen/Meeting_Copilot)**: a desktop meeting assistant (PySide6). It transcribes your microphone and system audio locally with faster-whisper and suggests talking points with an LLM, in the cloud (OpenAI) or fully local (Ollama). It shows a visible notice that an AI is assisting the meeting.
 
-### 🔐 Security
+### Security
 
 **[kof-auth-api](https://github.com/FernandoJohansen/kof-auth-api)**: an authentication API written in [Kof](https://github.com/KofLang/Kof4j), a Brazilian language that compiles to the JVM. It ships with a script that attacks the API itself: on the last run, all 37 attacks were blocked. Along the way, I found and documented bugs in the language itself.
 
 **[blacktools](https://github.com/FernandoJohansen/blacktools)**: the BlackArch toolset organized by category (recon, web, exploitation, forensics, reversing...), with per-group installation and quick-start guides for each area.
 
-### 🌐 Full-stack
+### Full-stack
 
 **[Ecommerce](https://github.com/FernandoJohansen/Ecommerce)**: an online store for an artisanal brand, with an SSR frontend in TanStack Start deployed to Cloudflare Workers, a FastAPI + Supabase backend, WhatsApp/PIX ordering, and CI on GitHub Actions.
 

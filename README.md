@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🇧🇷_Português-selecionado-00FF41?style=flat-square" alt="Português (selecionado)">
-  <a href="https://github.com/FernandoJohansen/FernandoJohansen/blob/main/README.en.md"><img src="https://img.shields.io/badge/🇺🇸_English-read_in_English-003B00?style=flat-square" alt="Read in English"></a>
+  <img src="https://img.shields.io/badge/Português-selecionado-00FF41?style=flat-square" alt="Português (selecionado)">
+  <a href="https://github.com/FernandoJohansen/FernandoJohansen/blob/main/README.en.md"><img src="https://img.shields.io/badge/English-read_in_English-003B00?style=flat-square" alt="Read in English"></a>
 </p>
 
 <p align="center">
@@ -22,9 +22,9 @@ Sou desenvolvedor de software desde 2020. Construo aplicações de ponta a ponta
 
 Segurança é a lente que uso em tudo que faço. Quando escrevo uma API, escrevo também os ataques contra ela.
 
-- 🎓 Técnico em TI (IFMS) · cursando **Análise e Desenvolvimento de Sistemas** e **Segurança Digital** (UNIFAEL)
-- 🔭 Buscando posições de **AI Engineer** (remoto)
-- 🌎 Português nativo · Inglês fluente (C2)
+- Técnico em TI (IFMS) · cursando **Análise e Desenvolvimento de Sistemas** e **Segurança Digital** (UNIFAEL)
+- Buscando posições de **AI Engineer** (remoto)
+- Português nativo · Inglês fluente (C2)
 
 ## Stack
 
@@ -60,19 +60,19 @@ Segurança é a lente que uso em tudo que faço. Quando escrevo uma API, escrevo
 
 ## Projetos em destaque
 
-### 🤖 IA
+### IA
 
 **[nexus](https://github.com/FernandoJohansen/nexus)**: plataforma de automação para YouTube que vai da descoberta de tendências ao roteiro e à narração. FastAPI assíncrono, PostgreSQL, Redis + Celery para as filas, adaptadores para Claude, OpenAI e Gemini, e frontend em React com shadcn/ui. Tudo orquestrado com Docker Compose e Nginx.
 
 **[Meeting Copilot](https://github.com/FernandoJohansen/Meeting_Copilot)**: assistente de reuniões para desktop (PySide6). Transcreve microfone e áudio do sistema localmente com faster-whisper e sugere pontos de fala com um LLM, na nuvem (OpenAI) ou 100% local (Ollama). Exibe um aviso visível de que há uma IA assistindo a reunião.
 
-### 🔐 Segurança
+### Segurança
 
 **[kof-auth-api](https://github.com/FernandoJohansen/kof-auth-api)**: API de autenticação em [Kof](https://github.com/KofLang/Kof4j), linguagem brasileira que compila para JVM. Vem com um script que ataca a própria API: na última execução, os 37 ataques foram bloqueados. No caminho, encontrei e documentei bugs na própria linguagem.
 
 **[blacktools](https://github.com/FernandoJohansen/blacktools)**: coleção das ferramentas do BlackArch organizada por categoria (recon, web, exploração, forense, reversing...), com instalação por grupo e guias de uso rápido para cada área.
 
-### 🌐 Full-stack
+### Full-stack
 
 **[Ecommerce](https://github.com/FernandoJohansen/Ecommerce)**: loja virtual para uma marca artesanal, com frontend SSR em TanStack Start publicado no Cloudflare Workers, backend em FastAPI + Supabase, pedidos via WhatsApp/PIX e CI no GitHub Actions.
 
